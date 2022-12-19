@@ -1,0 +1,9 @@
+site_name: About Me
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: cyan
+extra:
+  generator: false
