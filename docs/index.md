@@ -1,4 +1,4 @@
-# About Me - Caio Peternela
+# Caio Peternela
 ### 1 - Contact
 
 * [Github](https://github.com/tonylampada)
