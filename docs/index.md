@@ -1,7 +1,7 @@
 # Caio Peternela
 ### 1 - Contact
 
-* [Github](https://github.com/tonylampada)
+* [Github](https://github.com/caiopeternela)
 * [LinkedIn](https://www.linkedin.com/in/caiopeternela/)
 * [E-mail](mailto:caiopeternela.dev@gmail.com)
 * [WhatsApp](https://wa.me/5512997580849)
