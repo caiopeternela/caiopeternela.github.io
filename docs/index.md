@@ -2,7 +2,7 @@
 ### 1 - Contact
 
 <!-- * [Github](https://github.com/caiopeternela) -->
-<a href="https://github.com/caiopeternela" target="_blank">Github</a>
+* <a href="https://github.com/caiopeternela" target="_blank">Github</a>
 * [LinkedIn](https://www.linkedin.com/in/caiopeternela/)
 * [E-mail](mailto:caiopeternela.dev@gmail.com)
 * [WhatsApp](https://wa.me/5512997580849)
