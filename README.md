@@ -1,9 +1,9 @@
-# Personal Curriculum
+# About Me
 
 ## Installation
 
 ```python
-pip install mkdocs mkdocs-material
+pip install -r requirements txt
 ```
 
 ## Usage
