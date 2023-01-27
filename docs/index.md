@@ -2,11 +2,11 @@
 
 ### 1 - About Me
 
-I am Caio, a 19-year-old software engineering intern at Buser, a startup that aims to revolutionize the Brazilian road transport industry. I have been passionate about technology and coding since a young age, creating my first website at 14, a single-page wiki about anime, specifically Naruto and Hunter x Hunter.
+I am Caio, a 19-year-old software engineering intern at Buser, a startup that aims to revolutionize the Brazilian road transport industry. I have been enthusiastic about technology and coding since a young age, creating my first website at 14, a single-page wiki about animes, specifically Naruto and Hunter x Hunter.
 
 I am always learning and staying up-to-date with new technologies, with a particular interest in open-source software. I am eager to contribute to the open-source community and create useful tools for others while also growing professionally.
 
-My career aspirations include working at startups, big tech companies, and eventually starting my own business. I am excited about the opportunity to gain diverse experiences and develop a well-rounded skillset.
+My career aspirations include working at startups, big tech companies, and eventually starting my own business. I am excited about the opportunity to gain diverse experiences and develop a well-rounded skill set.
 
 ### 2 - Projects
 
