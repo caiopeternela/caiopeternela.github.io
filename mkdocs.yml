@@ -2,8 +2,17 @@ site_name: Caio Peternela
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: deep purple
-    accent: cyan
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 extra:
   generator: false
