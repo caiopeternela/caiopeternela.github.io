@@ -20,7 +20,7 @@ My career aspirations include working at startups, big tech companies, and event
 
 ### 3 - Experience
 
-Software Engineer Intern - <a href="www.buser.com.br" target="_blank">Buser</a> (April, 2022 - Present)
+Software Engineer Intern - <a href="https://www.buser.com.br" target="_blank">Buser</a> (April, 2022 - Present)
 ### 4 - Education
 
 Bachelor's Degree in Computer Science - <a href="https://www.unifesp.br/" target="_blank">UNIFESP</a> (April, 2021 - Present)<br>
@@ -30,6 +30,6 @@ Bachelor's Degree in Science & Technology - <a href="https://www.unifesp.br/" ta
 
 <!-- * [Github](https://github.com/caiopeternela) -->
 * <a href="https://github.com/caiopeternela" target="_blank">Github</a>
-* <a href="(https://www.linkedin.com/in/caiopeternela" target="_blank">LinkedIn</a>
-* <a href="(mailto:caiopeternela.dev@gmail.com" target="_blank">E-mail</a>
+* <a href="https://www.linkedin.com/in/caiopeternela" target="_blank">LinkedIn</a>
+* <a href="mailto:caiopeternela.dev@gmail.com" target="_blank">E-mail</a>
 * <a href="https://wa.me/5512997580849" target="_blank">WhatsApp</a>
