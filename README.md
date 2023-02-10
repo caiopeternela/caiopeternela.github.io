@@ -1,5 +1,3 @@
-# About Me
-
 ## Installation
 
 ```python
