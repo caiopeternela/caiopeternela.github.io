@@ -1,6 +1,6 @@
 # Caio Peternela
 
-### 1 - About Me
+### 1 - About me
 
 I am Caio, a 19-year-old software engineering intern at Buser, a startup that aims to revolutionize the Brazilian road transport industry. I have been enthusiastic about technology and coding since a young age, creating my first website at 14, a single-page wiki about animes, specifically Naruto and Hunter x Hunter.
 
