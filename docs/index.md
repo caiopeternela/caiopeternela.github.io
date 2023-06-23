@@ -2,7 +2,7 @@
 
 ### 1 - About me
 
-I am Caio, a 19-year-old software engineering intern at Buser, a startup that aims to revolutionize the Brazilian road transport industry. I have been enthusiastic about technology and coding since a young age, creating my first website at 14, a single-page wiki about animes, specifically Naruto and Hunter x Hunter.
+I am Caio, a 20-year-old software engineering intern at Buser, a startup that is revolutionizing the brazilian road transport industry. I have been enthusiastic about technology and coding since a young age, creating my first website at 14, a single-page wiki about animes, specifically Naruto and Hunter x Hunter.
 
 I am always learning and staying up-to-date with new technologies, with a particular interest in open-source software. I am eager to contribute to the open-source community and create useful tools for others while also growing professionally.
 
@@ -10,7 +10,7 @@ My career aspirations include working at startups, big tech companies, and event
 
 ### 2 - Projects
 
-**<a href="https://github.com/caiopeternela/neoclima" target="_blank">Neoclima</a>** - A modern weather terminal application currently under construction with the help of <a href="https://typer.tiangolo.com" target="_blank">Typer</a>.
+**<a href="https://github.com/caiopeternela/secreta" target="_blank">Secreta</a>** - A modern password manager for terminal currently under construction with the help of <a href="https://typer.tiangolo.com" target="_blank">Typer</a>.
 
 **<a href="https://github.com/caiopeternela/zoordle" target="_blank">Zoordle</a>** - The Animal Wordle
 
