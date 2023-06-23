@@ -12,7 +12,7 @@ My career aspirations include working at startups, big tech companies, and event
 
 **<a href="https://github.com/caiopeternela/secreta" target="_blank">Secreta</a>** - A modern password manager for terminal currently under construction with the help of <a href="https://typer.tiangolo.com" target="_blank">Typer</a>.
 
-**<a href="https://github.com/caiopeternela/zoordle" target="_blank">Zoordle</a>** - The Animal Wordle
+**<a href="https://github.com/caiopeternela/zoordle" target="_blank">Zoordle</a>** - The animal Wordle made with vanilla JavaScript.
 
 **<a href="https://github.com/caiopeternela/pylifeandvuelife" target="_blank">Pylife & Vuelife</a>** - Implementations of Conway's game of life in Python and Vue.js.
 
