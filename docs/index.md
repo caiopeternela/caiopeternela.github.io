@@ -19,8 +19,8 @@ My career aspirations include working at startups, big tech companies, and event
 **<a href="https://github.com/caiopeternela/jsonflix" target="_blank">JSONFlix</a>** - A Netflix API that can perform advanced searches in the database of all films and series on the platform. Created together with <a href="https://github.com/vitoiuo" target="_blank">Vitinho</a>.
 
 ### 3 - Experience
-Software Engineer - <a href="https://www.buser.com.br" target="_blank">Buser</a> (July, 2022 - Present)<br>
-Software Engineer Intern - <a href="https://www.buser.com.br" target="_blank">Buser</a> (April, 2022 - July, 2022)
+Software Engineer - <a href="https://www.buser.com.br" target="_blank">Buser</a> (July, 2023 - Present)<br>
+Software Engineer Intern - <a href="https://www.buser.com.br" target="_blank">Buser</a> (April, 2022 - July, 2023)
 ### 4 - Education
 
 Bachelor's Degree in Computer Science - <a href="https://www.unifesp.br/" target="_blank">UNIFESP</a> (April, 2021 - Present)<br>
