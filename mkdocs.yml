@@ -1,9 +1,10 @@
 site_name: caiopeternela.dev
-
 theme:
   icon:
     logo: material/code-tags
   name: material
+  features:
+    - navigation.sections
   palette:
     - scheme: slate
       primary: deep purple
@@ -20,16 +21,9 @@ theme:
   font:
     text: Noto Sans
     code: JetBrains Mono
-
 plugins:
   - blog:
       archive: false
-
-nav:
-  - Resume:
-      index.md
-  - Blog:
-      blog/index.md
-
+      categories_name: Tags
 extra:
   generator: false
