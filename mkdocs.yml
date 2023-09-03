@@ -1,10 +1,6 @@
-site_name: caiopeternela.dev
+site_name: Caio Peternela
 theme:
-  icon:
-    logo: material/code-tags
   name: material
-  features:
-    - navigation.sections
   palette:
     - scheme: slate
       primary: deep purple
@@ -18,12 +14,5 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-  font:
-    text: Noto Sans
-    code: JetBrains Mono
-plugins:
-  - blog:
-      archive: false
-      categories_name: Tags
 extra:
   generator: false
