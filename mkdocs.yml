@@ -1,5 +1,8 @@
-site_name: Caio Peternela
+site_name: caiopeternela.dev
+
 theme:
+  icon:
+    logo: material/code-tags
   name: material
   palette:
     - scheme: slate
@@ -14,5 +17,19 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+
+plugins:
+  - blog:
+      archive: false
+
+nav:
+  - Resume:
+      index.md
+  - Blog:
+      blog/index.md
+
 extra:
   generator: false
